@@ -1,0 +1,5 @@
+1997,Titanic,Romantik,James Cameron,{(Leonardo DiCaprio, Erkek, ABD)(Kate Winslet, Kadın, Ingiltere)}
+2008,AROG,Bilim-Kurgu,Ali Taner Baltacı,{(Cem Yilmaz, Erkek, Turkiye)(Ozan Guven, Erkek, Turkiye)}
+1995,Casino,Suç/Dram,Martin Scorsese,{(Robert De Niro, Erkek, ABD)(Sharon Stone, Kadın, ABD)}
+1995,Braveheart,Savaş/Dram,Mel Gibson,{(Sophie Marceau, Kadın, Fransa)(Patrick McGoohan, Erkek, ABD)}
+2001,Bandits,Suç/Komedi,Barry Levinson,{(Bruce Willis, Erkek, Almanya)(Cate Blanchett, Kadın, Avustralya)}
